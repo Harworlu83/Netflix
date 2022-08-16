@@ -1,0 +1,525 @@
+body {
+  background-color: rgb(24, 22, 22);
+  margin: 0%;
+  box-sizing: border-box;
+}
+
+#first {
+  display: flex
+}
+
+#sign {
+  margin-left: 1400px;
+  margin-top: 50px;
+  background-color: crimson;
+  color: white;
+  text-align: center;
+  outline: none;
+  position: relative;
+  border-radius: 5px;
+  border: none;
+  height: 30px;
+  width: 80px;
+  cursor: pointer;
+}
+
+p {
+  font-size: 250%;
+  position: absolute;
+  color: crimson;
+  margin-left: 20px;
+  border-radius: 100%;
+  position: absolute;
+  font-family: Tahoma;
+  font-weight: 500;
+}
+
+#mainimage {
+  margin-top: -8%;
+}
+
+#image1 {
+  width: 100%;
+}
+
+#second {
+  /* margin-top: 0.5%;
+  margin-left: 47%; */
+  width: 100%;
+  display: flex;
+  margin-top: 7px;
+}
+
+#meta {
+  /* margin-top: 0.5%; */
+  /* margin-top: 10px; */
+  height: 400px;
+  width: 40%;
+  /* margin-left: 10%; */
+}
+
+#meji {
+  width: 50%;
+  height: 400px;
+}
+
+#one {
+  width: 50%;
+  height: 400px;
+  background-color: black;
+
+}
+
+#first2 {
+  position: absolute;
+  margin-top: 400px;
+  margin-left: 400px;
+}
+
+#body1 {
+  height: 60px;
+  width: 540px;
+  top: -5px;
+  font-size: 18px;
+  position: relative;
+}
+
+#body2 {
+  height: 65px;
+  width: 240px;
+  color: white;
+  background-color: red;
+  margin-left: -4px;
+  font-size: 30px;
+  border: none;
+  position: relative;
+}
+
+#third1 {
+  width: 10%;
+  height: 400px;
+  background-color: black;
+  /* margin-top: 0.7%; */
+}
+
+#third2 {
+  width: 50%;
+  height: 400px;
+  background-color: black;
+  /* margin-top: 10px; */
+  /* margin-left: 50%; */
+}
+
+#third {
+  width: 100%;
+  display: flex;
+  margin-top: 10px;
+}
+
+#merin {
+  width: 45%;
+  height: 450px;
+}
+
+#fourth {
+  display: flex;
+  margin-top: 10px;
+}
+
+#dark {
+  background-color: black;
+  height: 450px;
+  width: 55%;
+
+}
+
+#darkpath {
+  background-color: black;
+  height: 100px;
+  width: 100%;
+}
+
+#darkwrite {
+  background-color: black;
+  height: 300px;
+  width: 100%;
+  margin-top: 10px;
+}
+
+#semilast {
+  background-color: black;
+  height: 1000px;
+  width: 100%;
+  margin-top: 10px;
+}
+
+#last {
+  background-color: black;
+  height: 300px;
+  width: 100%;
+  margin-top: 10px;
+  position: absolute;
+}
+
+#FAQ {
+  font-family: 'Franklin Gothic Medium';
+  font-size: 60px;
+  color: white;
+  position: relative;
+  top: 60px;
+  margin-top: 10px;
+}
+
+#firstbar {
+  height: 70px;
+  width: 50%;
+  background-color: rgb(24, 22, 22);
+  position: relative;
+  top: 35px;
+}
+
+#secondbar {
+  height: 70px;
+  width: 50%;
+  background-color: rgb(24, 22, 22);
+  position: relative;
+  top: 45px;
+}
+
+#thirdbar {
+  height: 70px;
+  width: 50%;
+  background-color: rgb(24, 22, 22);
+  position: relative;
+  top: 55px;
+}
+
+#footer {
+  position: relative;
+}
+
+#bar {
+  margin-top: 200px;
+}
+
+#fourthbar {
+  height: 70px;
+  width: 50%;
+  background-color: rgb(24, 22, 22);
+  position: relative;
+  top: 65px;
+}
+
+#fifthbar {
+  height: 70px;
+  width: 50%;
+  background-color: rgb(24, 22, 22);
+  position: relative;
+  top: 75px;
+}
+
+#sixthbar {
+  height: 130px;
+  width: 50%;
+  background-color: rgb(24, 22, 22);
+  position: relative;
+  top: 78px;
+}
+
+#seventhbar {
+  height: 70px;
+  width: 50%;
+  background-color: rgb(24, 22, 22);
+  position: relative;
+  top: 88px;
+}
+
+#ft {
+  color: white;
+  font-size: large;
+  top: 140px;
+  position: relative;
+}
+
+#bar {
+  position: relative;
+  margin-top: 150px;
+}
+
+#fore {
+  color: white;
+  font-size: large;
+  margin-top: 370px;
+  position: absolute;
+  margin-left: 33%;
+}
+
+#firstline {
+  color: white;
+  font-size: 68px;
+  font-family: Arial;
+  font-weight: bold;
+  margin-left: 29%;
+  margin-top: 150px;
+}
+
+#secondline {
+  color: white;
+  font-size: 65px;
+  position: absolute;
+  font-weight: bold;
+  font-family: Arial;
+  margin-left: 33.5%;
+  margin-top: 150px;
+}
+
+#thirdline {
+  color: white;
+  font-size: 30px;
+  font-family: Arial;
+  position: absolute;
+  margin-top: 280px;
+  margin-left: 37%;
+
+}
+
+#firsttext {
+  top: 100px;
+}
+
+#twoline1 {
+  color: white;
+  font-family: Arial;
+  font-weight: bold;
+  font-size: 55px;
+  margin-left: 15%;
+  margin-top: 75px;
+}
+
+#twoline2 {
+  color: white;
+  font-family: Arial;
+  margin-left: 15%;
+  margin-top: 120px;
+  font-size: 28px;
+
+}
+
+#thirdline1 {
+  color: white;
+  font-family: Arial;
+  font-weight: bold;
+  font-size: 55px;
+  margin-top: 150px;
+}
+
+#thirdline2 {
+  color: white;
+  font-family: Arial;
+  font-size: 28px;
+  margin-top: 250px;
+}
+
+#nawa {
+  color: white;
+  font-family: Arial;
+  font-weight: bold;
+  font-size: 55px;
+  margin-left: 15%;
+  margin-top: 80px;
+}
+
+#Oga {
+  color: white;
+  font-family: Arial;
+  font-size: 28px;
+  margin-top: 115px;
+  margin-left: 15%;
+}
+
+#Godabeg {
+  color: white;
+  font-family: Arial;
+  font-weight: bold;
+  font-size: 55px;
+  margin-left: 5%;
+  margin-top: 70px;
+}
+
+#happy {
+  color: white;
+  font-family: Arial;
+  font-size: 28px;
+  margin-top: 175px;
+  margin-left: 5%;
+}
+
+#firstbartext {
+  color: white;
+  font-family: Arial;
+  font-size: 28px;
+  margin-top: 20px;
+}
+
+#plusone {
+  color: white;
+  font-family: Arial;
+  font-size: 28px;
+  margin-top: 12px;
+  margin-left: 93%;
+  font-size: 45px;
+}
+
+#secondbartext {
+  color: white;
+  font-family: Arial;
+  font-size: 28px;
+  margin-top: 20px;
+}
+
+#plustwo {
+  color: white;
+  font-family: Arial;
+  font-size: 28px;
+  margin-top: 12px;
+  margin-left: 93%;
+  font-size: 45px;
+}
+#thirdbartext{
+  color: white;
+  font-family: Arial;
+  font-size: 28px;
+  margin-top: 20px;
+}
+
+#plus3{
+  color: white;
+  font-family: Arial;
+  font-size: 28px;
+  margin-top: 12px;
+  margin-left: 93%;
+  font-size: 45px;
+}
+#fourthbartext{
+  color: white;
+  font-family: Arial;
+  font-size: 28px;
+  margin-top: 20px;
+}
+#plus4{
+  color: white;
+  font-family: Arial;
+  font-size: 28px;
+  margin-top: 12px;
+  margin-left: 93%;
+  font-size: 45px;
+}
+#fifthbartext{
+  color: white;
+  font-family: Arial;
+  font-size: 28px;
+  margin-top: 20px;
+}
+#plus5{
+  color: white;
+  font-family: Arial;
+  font-size: 28px;
+  margin-top: 12px;
+  margin-left: 93%;
+  font-size: 45px;
+}
+#sevenbartext{
+  color: white;
+  font-family: Arial;
+  font-size: 28px;
+  margin-top: 20px;
+}
+#plus7{
+  color: white;
+  font-family: Arial;
+  font-size: 28px;
+  margin-top: 12px;
+  margin-left: 93%;
+  font-size: 45px;
+}
+#fill{
+  display: flex;
+  margin-left: 12%;
+  position: relative;
+  top: 30px;
+}
+#firstset{
+  margin-left: 10%;
+  font-size: small;
+  color: rgb(133, 125, 125);
+  position: relative;
+  list-style-type: none;
+  font-family: Arial;
+  line-height: 30px;
+
+}
+#secondset{
+  margin-left: 25%;
+  font-size: small;
+  color:  rgb(133, 125, 125); 
+  position: absolute;
+  font-family: Arial;
+  line-height: 30px;
+}
+#thirdset{
+  margin-left: 40%;
+  font-size: small;
+  color: rgb(133, 125, 125);
+  position: absolute;
+  font-family: Arial;
+  line-height: 30px;
+}
+#fourthset{
+  margin-left: 60%;
+  font-size: small;
+  color:  rgb(133, 125, 125);
+  position: absolute;
+  font-family: Arial;
+  line-height: 30px;
+}
+#QCU{
+  color:rgb(133, 125, 125);
+  font-size: large;
+  position: relative;
+  top: 30px;
+  margin-left: 23%;
+}
+
+#final{
+  color:rgb(133, 125, 125);
+  position: absolute;
+  position: relative;
+  font-size: large;
+  margin-top: 160px;
+  font-family: Arial;
+  margin-left: -8%;
+}
+#list1{
+  list-style: none;
+}
+#list2{
+  list-style: none;
+}
+#list3{
+  list-style: none;
+}
+#list4{
+  list-style: none;
+}
+#test{
+  text-decoration: none;
+  color: rgb(133, 125, 125);
+}
+#imgglogo{
+height: 100px; 
+width: 200px;
+position: absolute;
+margin-top:50px;
+margin-left: 30px;
+color: crimson;
+}
